@@ -2,6 +2,9 @@ public class Kolcsonzes {
     //Név
     public String nev;
 
+    public Kolcsonzes(String line) {
+    }
+
     public void setNev(String nev) {
         this.nev = nev;
     }
